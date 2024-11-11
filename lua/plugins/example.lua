@@ -19,6 +19,10 @@ return {
       colorscheme = "catppuccin",
     },
   },
+  {
+    'Exafunction/codeium.vim',
+    event = 'BufEnter'
+  },
 
   -- change trouble config
   {
